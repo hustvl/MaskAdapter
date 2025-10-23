@@ -3,7 +3,7 @@
 <h1> Mask-Adapter </h1>
 <h3> The Devil is in the Masks for Open-Vocabulary Segmentation </h3>
 
-Yongkang Li<sup>\*</sup>, [Tianheng Cheng](https://scholar.google.com/citations?user=PH8rJHYAAAAJ&hl=zh-CN)<sup>\*</sup>, [Bin Feng](https://scholar.google.com/citations?user=nRc8u6gAAAAJ&hl=zh-CN), [Wenyu Liu](http://eic.hust.edu.cn/professor/liuwenyu), [Xinggang Wang](https://xwcv.github.io/)<sup>📧</sup>
+[Yongkang Li](https://owl-10.github.io/yongkangli/)<sup>\*</sup>, [Tianheng Cheng](https://scholar.google.com/citations?user=PH8rJHYAAAAJ&hl=zh-CN)<sup>\*</sup>, [Bin Feng](https://scholar.google.com/citations?user=nRc8u6gAAAAJ&hl=zh-CN), [Wenyu Liu](http://eic.hust.edu.cn/professor/liuwenyu), [Xinggang Wang](https://xwcv.github.io/)<sup>📧</sup>
 
 Huazhong University of Science and Technology,
 
@@ -11,14 +11,12 @@ Huazhong University of Science and Technology,
 
 (\* equal contribution, 📧 corresponding author)
 
+[![arxiv paper](https://img.shields.io/badge/CVPR-Paper-blue)](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_Mask-Adapter_The_Devil_is_in_the_Masks_for_Open-Vocabulary_Segmentation_CVPR_2025_paper.pdf)
 [![arxiv paper](https://img.shields.io/badge/arXiv-Paper-red)](https://arxiv.org/abs/2412.04533)
 [![checkpoints](https://img.shields.io/badge/HuggingFace-🤗_Weight-orange)](https://huggingface.co/owl10/Mask-Adapter)
 [![🤗 HuggingFace Demo](https://img.shields.io/badge/Mask_Adapter-🤗_HF_Demo-orange)](https://huggingface.co/spaces/wondervictor/Mask-Adapter)
 
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/mask-adapter-the-devil-is-in-the-masks-for/open-vocabulary-semantic-segmentation-on-2)](https://paperswithcode.com/sota/open-vocabulary-semantic-segmentation-on-2?p=mask-adapter-the-devil-is-in-the-masks-for)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/mask-adapter-the-devil-is-in-the-masks-for/open-vocabulary-semantic-segmentation-on-3)](https://paperswithcode.com/sota/open-vocabulary-semantic-segmentation-on-3?p=mask-adapter-the-devil-is-in-the-masks-for)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/mask-adapter-the-devil-is-in-the-masks-for/open-vocabulary-semantic-segmentation-on-7)](https://paperswithcode.com/sota/open-vocabulary-semantic-segmentation-on-7?p=mask-adapter-the-devil-is-in-the-masks-for)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/mask-adapter-the-devil-is-in-the-masks-for/open-vocabulary-semantic-segmentation-on-1)](https://paperswithcode.com/sota/open-vocabulary-semantic-segmentation-on-1?p=mask-adapter-the-devil-is-in-the-masks-for)
+
 </div>
 
 
